@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://marmcintosh.github.io/tcdl-2025
+
+# Sitemaps
+Sitemap: https://marmcintosh.github.io/tcdl-2025/sitemap.xml
