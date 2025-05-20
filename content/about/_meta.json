@@ -4,7 +4,11 @@
     "text": "About"
   },
   {
-    "path": "/about/example",
+    "path": "/about/charting",
     "text": "Markdown Example"
+  }
+  {
+    "path": "/about/charting",
+    "text": "The Nez Percé (Nimíipuu)"
   }
 ]
