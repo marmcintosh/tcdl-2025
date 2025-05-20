@@ -1,8 +1,8 @@
 {
-  "collection": "https://view.nls.uk/collections/1208/2191/120821910.json",
+  "collection": "https://api.dc.library.northwestern.edu/api/v2/collections/dc70f756-8e30-4724-b50d-591843db2537?as=iiif",
   "devCollection": "https://example.org/iiif/collection-small-sample.json",
   "featured": [
-    "https://view.nls.uk/manifest/1204/4310/120443102/manifest.json",
+    "https://api.dc.library.northwestern.edu/api/v2/works/0c620524-65e0-422c-90ba-f7f431ec2a87/thumbnail",
   
   ],
   "metadata": ["Date", "Subject"],
