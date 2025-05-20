@@ -1,0 +1,20 @@
+{
+  "collection": "https://view.nls.uk/collections/1208/2191/120821910.json",
+  "devCollection": "https://example.org/iiif/collection-small-sample.json",
+  "featured": [
+    "https://view.nls.uk/manifest/1204/4310/120443102/manifest.json",
+  
+  ],
+  "metadata": ["Date", "Subject"],
+  "label": { "Adventures of Robinson Crusoe, the York mariner": ["Antiquarian books of Scotland"] },
+  "summary": {
+    "none": ["Brief description of the site and its contents."]
+  },
+  "theme": {
+    "defaultTheme": "light",
+    "accentColor": "jade",
+    "grayColor": "slate",
+    "radius": "small",
+    "scaling": "100%"
+  }
+}
